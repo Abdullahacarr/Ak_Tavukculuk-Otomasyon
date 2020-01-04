@@ -1,0 +1,201 @@
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\AkTavukculuk.exe.config
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\AkTavukculuk.exe
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\AkTavukculuk.pdb
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraGauges.v18.2.Win.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\MaterialSkin.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraGauges.v18.2.Win.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\obj\Debug\AkTavukculuk2.csprojAssemblyReference.cache
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\obj\Debug\AkTavukculuk.Form1.resources
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\obj\Debug\AkTavukculuk.Form2.resources
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\obj\Debug\AkTavukculuk.Properties.Resources.resources
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\obj\Debug\AkTavukculuk2.csproj.GenerateResource.cache
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\obj\Debug\AkTavukculuk.exe.licenses
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\obj\Debug\AkTavukculuk2.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\obj\Debug\AkTavukculuk2.csproj.CopyComplete
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\obj\Debug\AkTavukculuk.exe
+C:\Users\Abdullah ACAR\source\repos\AkTavukculuk\AkTavukculuk\obj\Debug\AkTavukculuk.pdb
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\AkTavukculuk.exe.config
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\AkTavukculuk.exe
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\AkTavukculuk.pdb
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraGauges.v18.2.Win.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\MaterialSkin.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraGauges.v18.2.Win.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\erkan\Desktop\1\AkTavukculuk\obj\Debug\AkTavukculuk2.csprojResolveAssemblyReference.cache
+C:\Users\erkan\Desktop\1\AkTavukculuk\obj\Debug\AkTavukculuk.Form1.resources
+C:\Users\erkan\Desktop\1\AkTavukculuk\obj\Debug\AkTavukculuk.Form2.resources
+C:\Users\erkan\Desktop\1\AkTavukculuk\obj\Debug\AkTavukculuk.Properties.Resources.resources
+C:\Users\erkan\Desktop\1\AkTavukculuk\obj\Debug\AkTavukculuk2.csproj.GenerateResource.Cache
+C:\Users\erkan\Desktop\1\AkTavukculuk\obj\Debug\AkTavukculuk.exe.licenses
+C:\Users\erkan\Desktop\1\AkTavukculuk\obj\Debug\AkTavukculuk2.csproj.CoreCompileInputs.cache
+C:\Users\erkan\Desktop\1\AkTavukculuk\obj\Debug\AkTavukculuk.exe
+C:\Users\erkan\Desktop\1\AkTavukculuk\obj\Debug\AkTavukculuk.pdb
